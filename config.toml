@@ -1,0 +1,4 @@
+baseURL = 'http://gnucash-uk-vat.awltux.trade/'
+languageCode = 'en-us'
+title = 'Awltux implementation of gnucash-uk-vat'
+theme = 'lugo'
