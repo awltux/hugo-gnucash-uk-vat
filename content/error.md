@@ -32,6 +32,3 @@ oooooooooooo                                         .o8
  888         888   888  888   888   888   888  888   888  
 o888o        `Y8bod8P'  `V88V"V8P' o888o o888o `Y8bod88P" 
 ```
-
-
-### Return to [homepage](/)

@@ -23,7 +23,7 @@ We reserve the right to modify these terms and conditions at any time without no
 # Contact Us
 If you have any questions about these terms and conditions, please contact us at:
 
-chris dot d dot holman@gmail dot com.
+chris dot d dot holman at gmail dot com
 
 # Effective date
 2023-01-12

@@ -23,7 +23,7 @@ We may update this privacy policy from time to time. If we make any changes, we 
 # Contact Us
 If you have any questions about this privacy policy or our handling of your personal information, please contact us at:
 
-chris dot d dot holman@gmail dot com
+chris dot d dot holman at gmail dot com
 
 # Effective date
 2023-01-12
